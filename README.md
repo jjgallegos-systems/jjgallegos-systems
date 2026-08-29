@@ -1,18 +1,25 @@
 <div align="center">
 
-# José Juan Gallegos
+# JG SYSTEMS LAB
 
-### Ingeniero en Sistemas · Mtro. en Administración de TI
+### José Juan Gallegos
 
-**Software · Inteligencia Artificial · Infraestructura · Redes · Ciberseguridad · Servidores · Automatización · Hardware**
+**Ingeniero en Sistemas · Mtro. en Administración de TI**
 
-## JG Systems Lab
+`Software` · `Inteligencia Artificial` · `Infraestructura` · `Redes` · `Ciberseguridad` · `Servidores` · `Automatización` · `Hardware`
 
-### `Build. Secure. Automate. Deploy.`
-
-</div>
+### Build. Secure. Automate. Deploy.
 
 ---
+
+[![Linux](https://img.shields.io/badge/Linux-Administración-FCC624?style=flat-square&logo=linux&logoColor=black)](#)
+[![Proxmox](https://img.shields.io/badge/Proxmox-Virtualización-E57000?style=flat-square&logo=proxmox&logoColor=white)](#)
+[![Docker](https://img.shields.io/badge/Docker-Contenedores-2496ED?style=flat-square&logo=docker&logoColor=white)](#)
+[![Python](https://img.shields.io/badge/Python-Desarrollo-3776AB?style=flat-square&logo=python&logoColor=white)](#)
+[![Git](https://img.shields.io/badge/Git-Control_de_versiones-F05032?style=flat-square&logo=git&logoColor=white)](#)
+[![Grafana](https://img.shields.io/badge/Grafana-Monitoreo-F46800?style=flat-square&logo=grafana&logoColor=white)](#)
+
+</div>
 
 ## 👨‍💻 Sobre mí
 
