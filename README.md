@@ -23,44 +23,40 @@
 
 ## 👨‍💻 Sobre mí
 
-Soy **José Juan Gallegos**, Ingeniero en Sistemas con Maestría en Administración de Tecnologías de la Información.
+Soy **José Juan Gallegos**, Ingeniero en Sistemas con **Maestría en Administración de Tecnologías de la Información** y fundador de **JG Systems Lab**.
 
-Mi perfil combina el desarrollo de software con la administración de infraestructura, servidores, redes, automatización, ciberseguridad, inteligencia artificial y hardware.
+Mi perfil integra desarrollo de software, inteligencia artificial, infraestructura, servidores, redes, ciberseguridad, automatización y hardware.
 
-Trabajo en la creación, implementación, mantenimiento y mejora de soluciones tecnológicas, integrando tanto software como infraestructura física y virtual.
+Trabajo tanto en la capa lógica como física de TI: desde desarrollo, APIs, scripts y automatizaciones hasta virtualización, servidores Linux, redes, almacenamiento, diagnóstico, mantenimiento y ensamble de equipos.
 
-Soy fundador y desarrollador independiente de **JG Systems Lab**, mi marca personal de ingeniería y tecnología.
+**JG Systems Lab** representa mi trabajo independiente y mi laboratorio técnico para diseñar, construir, probar y documentar soluciones tecnológicas.
 
 ---
 
 ## 🧪 JG Systems Lab
 
-**JG Systems Lab** es mi laboratorio y marca personal de ingeniería tecnológica.
+**JG Systems Lab** es mi marca personal y laboratorio independiente de ingeniería tecnológica.
 
-Está enfocado en el diseño, construcción, automatización, administración y mejora de soluciones en distintas áreas de TI.
+Su objetivo es integrar distintas disciplinas de TI dentro de una misma plataforma técnica:
 
-### Áreas principales
-
-- 💻 Desarrollo de software
-- 🤖 Inteligencia Artificial
-- 🐧 Linux y administración de sistemas
-- 🖥️ Servidores físicos y virtuales
-- 📦 Contenedores y Docker
-- 🌐 Redes y conectividad
-- 🔐 Ciberseguridad
-- ⚙️ Automatización
-- 📊 Monitoreo y observabilidad
-- 🗄️ NAS y almacenamiento
-- ☁️ Infraestructura y servicios
-- 🛠️ Diagnóstico y reparación de equipos
-- 🧩 Ensamble y configuración de PC
-- 💾 Soluciones tecnológicas personalizadas
+| Área | Enfoque |
+|---|---|
+| 💻 Software | Desarrollo, APIs, herramientas y soluciones |
+| 🤖 IA | Integraciones, agentes y automatización inteligente |
+| 🖥️ Infraestructura | Linux, virtualización, Docker y servicios |
+| 🌐 Redes | LAN, Wi-Fi, VPN, TCP/IP y diagnóstico |
+| 🔐 Ciberseguridad | Hardening, seguridad de sistemas y laboratorios |
+| 🗄️ Servidores | Proxmox, Debian, NAS, almacenamiento y respaldos |
+| ⚙️ Automatización | Python, Bash, PowerShell y workflows |
+| 🔧 Hardware | Diagnóstico, reparación, mantenimiento y PC Building |
+| 📊 Observabilidad | Grafana, Prometheus y métricas |
+| 💾 Custom Tech | USB, libretas y productos tecnológicos personalizados |
 
 > **Construir. Proteger. Automatizar. Desplegar.**
 
 ---
 
-# 🧠 Áreas de especialización
+# ⚡ Capacidades técnicas
 
 ## 💻 Desarrollo de Software
 
